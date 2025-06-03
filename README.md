@@ -94,8 +94,9 @@ Aquí una probadita de lo que encontrarás:
 ---
 ## 📊 Estadísticas de GitHub
 
-![Edwin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin2310&show_icons=true&theme=radical)  
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin2310&layout=compact&theme=tokyonight)
+![Seguidores GitHub](https://img.shields.io/github/followers/Edwin2310?label=Followers&style=flat)  
+![Repositorios Públicos](https://img.shields.io/github/repos/Edwin2310?label=Public%20Repos&style=flat)  
+![Última Actividad](https://img.shields.io/github/last-commit/Edwin2310/?label=Last%20Commit&style=flat)
 
 > Estas estadísticas reflejan mi actividad y mis lenguajes más usados en GitHub.  
 ---
