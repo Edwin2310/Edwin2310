@@ -92,14 +92,6 @@ Aquí una probadita de lo que encontrarás:
 - **Linux Unhatched**  
 
 ---
-## 📊 Estadísticas de GitHub
-
-![Seguidores GitHub](https://img.shields.io/github/followers/Edwin2310?label=Followers&style=flat)  
-![Repositorios Públicos](https://img.shields.io/github/repos/Edwin2310?label=Public%20Repos&style=flat)  
-![Última Actividad](https://img.shields.io/github/last-commit/Edwin2310/?label=Last%20Commit&style=flat)
-
-> Estas estadísticas reflejan mi actividad y mis lenguajes más usados en GitHub.  
----
 
 ## 📬 Conectemos
 - [LinkedIn](https://linkedin.com/in/edwinmartinez2310)
