@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Edwin Martinez
 
-🎓 Estudiante de Informática Administrativa en la UNAH  
+🎓 Licenciado de Informática Administrativa en la UNAH  
 💻 Apasionado por el desarrollo web y todo lo relacionado con la informática  
 🛠️ Buscando aprender más y mejorar cada día 
 
