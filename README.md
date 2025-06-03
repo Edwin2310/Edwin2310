@@ -13,13 +13,11 @@
   - Diseñé y mantuve aplicaciones web que gestionaban datos críticos de emergencia (bases de datos: MySQL, MariaDB, MongoDB).  
   - Implementé mejoras de seguridad y buenas prácticas en el ciclo de vida de desarrollo (MVC, control de versiones, pruebas básicas).  
   - Coordiné con el equipo para solucionar bugs y optimizar consultas SQL; entregamos mejoras con resultados sólidos.  
-  - ¡Y sí! También cubrí vacaciones de técnicos, arreglé routers y resolví más de un “pantallazo azul” en plena madrugada.
 
 - ### Práctica Profesional (Octubre 2018 – Noviembre 2018)  
   **Congreso Nacional**  
   - Realicé mantenimiento de hardware y configuré redes básicas para oficinas.  
-  - Instalé routers y atendí incidencias de usuarios (desde “mi impresora no imprime” hasta “mi equipo no enciende”).  
-  - Perdí la cuenta de cuántos cables de red reemplacé, pero gané experiencia y un par de anécdotas para contar.
+  - Instalé routers y atendí incidencias de usuarios.  
 
 ---
 
