@@ -2,9 +2,7 @@
 
 🎓 Estudiante de Informática Administrativa en la UNAH  
 💻 Apasionado por el desarrollo web y todo lo relacionado con la informática  
-🛠️ Buscando aprender más y mejorar cada día  
-✉️ edwinsin10am@gmail.com  
-
+🛠️ Buscando aprender más y mejorar cada día 
 
 ---
 
@@ -96,8 +94,8 @@ Aquí una probadita de lo que encontrarás:
 ---
 ## 📊 Estadísticas de GitHub
 
-![Edwin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin2310v&show_icons=true&theme=radical)  
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin2310v&layout=compact&theme=tokyonight)
+![Edwin’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edwin2310&show_icons=true&theme=radical)  
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin2310&layout=compact&theme=tokyonight)
 
 > Estas estadísticas reflejan mi actividad y mis lenguajes más usados en GitHub.  
 ---
